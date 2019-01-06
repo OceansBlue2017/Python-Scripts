@@ -42,7 +42,7 @@ print ("Adam says \"Hello from inside the qoute\" ")  #  this is another method
 
 # Concatinating in Python 3.6 and above
 # instead of creating the under stated
-name = 'Nancy Nanoos'
+name = 'Nancy '
 # greeting = 'Hello, ' + name
 # print(greeting)
 
