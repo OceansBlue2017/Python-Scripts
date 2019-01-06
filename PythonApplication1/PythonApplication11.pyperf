@@ -4,4 +4,9 @@
     <TargetProject>37ceb5cb-082b-4047-a5bb-c5b6f4fc7628</TargetProject>
     <FriendlyName>PythonApplication1</FriendlyName>
   </ProjectTarget>
+  <Reports>
+    <Report>
+      <Filename>C:\Users\Python\AppData\Local\Temp\PythonApplication11_20190105.vsp</Filename>
+    </Report>
+  </Reports>
 </ProfilingTarget>
