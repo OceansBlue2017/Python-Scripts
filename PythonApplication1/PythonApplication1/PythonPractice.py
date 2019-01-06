@@ -14,9 +14,9 @@ print (greetings + ' ' + name)
 
 ##
 
-# greetings = 'Welcome'
-# name = input ('Please enter your name: ' )
-# print (greetings + ' ' + name)
+greetings = 'Welcome'
+name = input ('Please enter your name: ' )
+print (greetings + ' ' + name)
 
 # Split a string into two lines by using the \n
 string1 = 'This String has been split \n by a backslash n'
