@@ -43,8 +43,17 @@ print ("Adam says \"Hello from inside the qoute\" ")  #  this is another method
 # Concatinating in Python 3.6 and above
 # instead of creating the under stated
 name = 'Nancy'
-greeting = 'Hello, ' + name
-print(greeting)
+# greeting = 'Hello, ' + name
+# print(greeting)
+
+# Instead we can use a new feature called f string
+newgreeTing = f'Hellllo, {name}' 
+print(newgreeTing)
+
+# an older way to faormat for Python 3.5 or older
+# finalgreeTing = "How you are Amar, {}"
+# formated_greeting = finalgreeTing.format(name)
+# print(formated_greeting)
 
 
 
