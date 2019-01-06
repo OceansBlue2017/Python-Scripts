@@ -1,5 +1,5 @@
 # Practice to learn 
-
+'''
 # Print
 
 print ("hello Texas")
@@ -14,9 +14,9 @@ print (greetings + ' ' + name)
 
 ##
 
-greetings = 'Welcome'
-name = input ('Please enter your name: ' )
-print (greetings + ' ' + name)
+# greetings = 'Welcome'
+# name = input ('Please enter your name: ' )
+# print (greetings + ' ' + name)
 
 # Split a string into two lines by using the \n
 string1 = 'This String has been split \n by a backslash n'
@@ -31,7 +31,20 @@ print ('Adam says "Hello from inside the qoute" ')  #  this is a method
 print ('Adam says \'Hello from inside the qoute\' ')  #  this is another method 
 print ("Adam says \"Hello from inside the qoute\" ")  #  this is another method 
 
+'''
 
+# Udemy "The Complete Python Course"
+  # Lecture No. 9  Python strings and String formating
+
+# String with quotes
+   # String_with_qoutes = "Hello it's me. "  # Use "double qoutes" because you have a 'single qoute inside the string'
+   # String_with_qoutes = 'Hello "You are amazing!" good job' # Use 'single qoute' because you have a "double qoutes inside the string"
+
+# Concatinating in Python 3.6 and above
+# instead of creating the under stated
+name = 'Nancy'
+greeting = 'Hello, ' + name
+print(greeting)
 
 
 
