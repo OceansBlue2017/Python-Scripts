@@ -56,4 +56,12 @@ print(newgreeTing)
 # print(formated_greeting)
 
 
+# creating 'input' for users to enter data
+my_naMe = 'Abbas'
+your_naMe = input('Please enter your name: ')
+
+print(your_naMe)
+
+
+
 
