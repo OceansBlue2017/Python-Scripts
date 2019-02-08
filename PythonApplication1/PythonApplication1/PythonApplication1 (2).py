@@ -6,11 +6,13 @@ print ("hello Texas")
 
 print (5 + 1000)
 print (1000 - 200)
-print ("Hi Demi")
+print ("Hi Nancy")
 
 greetings = 'Welcome'
-name = "Demi"
+name = "Nancy"
 print (greetings + ' ' + name)
+
+
 
 
 greetings = 'Welcome'
@@ -32,7 +34,7 @@ print ('Adam says \'Hello from inside the qoute\' ')  #  this is another method
 print ("Adam says \"Hello from inside the qoute\" ")  #  this is another method 
 
 Welcome = 'Hello'
-My_Name = 'Demi'
+My_Name = 'Nancy'
 Friends = 'Emad'
 _Friends_Age = 99
 
